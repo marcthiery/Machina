@@ -14,5 +14,10 @@ namespace Machina
         {
             InitializeComponent();
         }
+
+        private void StartButtonClicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
